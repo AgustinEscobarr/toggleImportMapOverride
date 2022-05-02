@@ -3,7 +3,7 @@
     "description": "Activar y desactivar desde el localStorage la vista del boton del import map override cuando se utiliza single spa.",
     "version": "0.0.0.1",
     "manifest_version": 3,
-    "permissions": ["storage", "activeTab", "scripting", "tabs", "notifications"],
+    "permissions": ["storage", "activeTab", "scripting"],
     "action": {
         "default_popup": "popup.html"
     },
