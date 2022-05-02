@@ -1,0 +1,16 @@
+{
+    "name": "Import Map Override - toggle UI",
+    "description": "Activar y desactivar desde el localStorage la vista del boton del import map override cuando se utiliza single spa.",
+    "version": "0.0.0.1",
+    "manifest_version": 3,
+    "permissions": ["storage", "activeTab", "scripting", "tabs", "notifications"],
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "icons": {
+      "16": "/images/tesla16.png",
+      "32": "/images/tesla32.png",
+      "48": "/images/tesla48.png",
+      "128": "/images/tesla128.png"
+    }
+  }
